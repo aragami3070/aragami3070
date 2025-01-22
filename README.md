@@ -1,4 +1,4 @@
-### Основной стек (Умею работать с ним)
+### Основной стек (Умею работать с ним):
 - Языки:
 
 ![Typst](https://img.shields.io/badge/typst-%23239dad.svg?style=plastic&logo=typst&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
@@ -6,7 +6,7 @@
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
-### Основной стек (Учусь работать с ним)
+### Основной стек (Учусь работать с ним):
 
 - Back End:
 
@@ -20,4 +20,17 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 
+### Работал:
+<details>
+  <summary>Имеется небольшой опыт работы</summary>
+    - Языки:
 
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+    - Фреймворки и библиотеки:
+
+    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+
+    - Базы данных, программы и утилиты:
+    ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+<details>
