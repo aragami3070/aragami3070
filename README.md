@@ -35,4 +35,4 @@
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
 
-<details>
+</details>
