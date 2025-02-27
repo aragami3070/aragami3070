@@ -37,3 +37,8 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 </details>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragami3070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+
