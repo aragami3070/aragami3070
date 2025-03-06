@@ -4,7 +4,7 @@
 ![Typst](https://img.shields.io/badge/typst-%23239dad.svg?style=for-the-badge&logo=typst&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 - ^\_^
 
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=000)](#)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=000) ![Arch](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=grey)
 
 ### Основной стек (Учусь работать с ним):
 
