@@ -46,3 +46,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragami3070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
+![aragami3070's GitHub stats](https://github-readme-stats.vercel.app/api?username=aragami3070&show_icons=true&theme=radical)
