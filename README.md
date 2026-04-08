@@ -1,4 +1,8 @@
+### Резюме
+[Резюме](https://github.com/aragami3070/resume)
+
 ### Основной стек (Умею работать с ним):
+
 - Языки:
 
 ![Typst](https://img.shields.io/badge/typst-%23239dad.svg?style=for-the-badge&logo=typst&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -39,7 +43,7 @@
 ### Статистика по гитхабу:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="44%" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aragami3070&role=OWNER&theme=dark&langs_count=6&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="44%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragami3070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 <img alt="aragami3070's GitHub Streak" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=aragami3070&theme=aura&hide_border=true"/>
